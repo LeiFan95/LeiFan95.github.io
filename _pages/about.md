@@ -24,6 +24,8 @@ I am constantly investigating the challenges inherent to active vision agents in
 
 Prior to my Ph.D., my researches primarily focused on the perception in autonomous driving vehicles, encompassing areas such as stereo vision, 3D mapping, moving-object detection and map repair. 
 
+My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on March 2023).
+
 # 🔥 News
 - *2023.07*: &nbsp;🎉 Our paper on *uncertainty estimation* has been accepted to ICCV 2023! Appreciation goes out to all advisors: Dr. Bo Liu, Dr. Haoxiang Li, Prof. Ying Wu, and Prof. Gang Hua!
 - *2023.03*: &nbsp;🎉 I will join [Amazon Robotics](https://www.amazon.science/research-areas/robotics) as an Applied Scientist Intern this summer!
@@ -35,25 +37,53 @@ Prior to my Ph.D., my researches primarily focused on the perception in autonomo
 - *2017.09 - 2019.06*, M.S. in Computer Science, advised by [Prof. Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN), Sun Yat-sen University.
 - *2013.09 - 2017.06*, B.E. in Computer Science, Sun Yat-sen University.
 
-# 📝 Publications 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/overview/ICCV23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance]()
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Lei Fan**, Bo Liu, Haoxiang Li, Ying Wu, Gang Hua
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[**Supplementary**]() <strong><span class='' data=''></span></strong> | 
+[**Project**]() <strong><span class='' data=''></span></strong>
+- Modeling both confusion and ignorance with hyper-opinions.
+- Proposing a hierarchical structure with binary plausible functions to handle the challenge of 2^K predictions.
+- Experiments with synthetic data, flexible visual recognition, and open-set detection validate our approach.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div> -->
+</div>
 
-- [Avoiding Lingering in Learning Active Recognition by Adversarial Disturbance](https://openaccess.thecvf.com/content/WACV2023/papers/Fan_Avoiding_Lingering_in_Learning_Active_Recognition_by_Adversarial_Disturbance_WACV_2023_paper.pdf), **Lei Fan**, Ying Wu, accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/overview/WACV23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Avoiding Lingering in Learning Active Recognition by Adversarial Disturbance](https://openaccess.thecvf.com/content/WACV2023/papers/Fan_Avoiding_Lingering_in_Learning_Active_Recognition_by_Adversarial_Disturbance_WACV_2023_paper.pdf)
+
+**Lei Fan**, Ying Wu
+
+[**Supplementary**](./files/WACV_2023_Supplementary.pdf) <strong><span class='' data=''></span></strong> | 
+[**Poster**](./files/WACV_2023_Poster.pdf) <strong><span class='' data=''></span></strong>
+- *Lingering*: The joint learning process could lead to unintended solutions, like a collapsed policy that only visits views that the recognizer is already sufficiently trained to obtain rewards.
+- Our approach integrates another adversarial policy to disturb the recognition agent during training, forming a competing game to promote active explorations and avoid lingering.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/overview/ICCV21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[FLAR: A Unified Prototype Framework for Few-sample Lifelong Active Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FLAR_A_Unified_Prototype_Framework_for_Few-Sample_Lifelong_Active_Recognition_ICCV_2021_paper.pdf)
+
+**Lei Fan**, Peixi Xiong, Wei Wei, Ying Wu
+
+[**Supplementary**](./files/ICCV_2021_Supplementary.pdf) <strong><span class='' data=''></span></strong> | 
+[**Poster**](./files/ICCV_2021_Poster.pdf) <strong><span class='' data=''></span></strong>
+- The active recognition agent needs to incrementally learn new classes with limited data during exploration.
+- Our approach integrates prototypes, a robust representation for limited training samples, into a reinforcement learning solution, which motivates the agent to move towards views resulting in more discriminative features.
+</div>
+</div>
+
+<!-- - [Avoiding Lingering in Learning Active Recognition by Adversarial Disturbance](https://openaccess.thecvf.com/content/WACV2023/papers/Fan_Avoiding_Lingering_in_Learning_Active_Recognition_by_Adversarial_Disturbance_WACV_2023_paper.pdf), **Lei Fan**, Ying Wu, accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023. -->
 
 - [Unsupervised Depth Completion and Denoising for RGB-D Sensors](https://ieeexplore.ieee.org/document/9812392), **Lei Fan**, Yunxuan Li, Chen Jiang, Ying Wu, accepted by IEEE International Conference on Robotics and Automation (**ICRA**), 2022.
 
-- [FLAR: A Unified Prototype Framework for Few-sample Lifelong Active Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FLAR_A_Unified_Prototype_Framework_for_Few-Sample_Lifelong_Active_Recognition_ICCV_2021_paper.pdf), **Lei Fan**, Peixi Xiong, Wei Wei, Ying Wu, accepted by IEEE International Conference on Computer Vision (**ICCV**), 2021.
+<!-- - [FLAR: A Unified Prototype Framework for Few-sample Lifelong Active Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FLAR_A_Unified_Prototype_Framework_for_Few-Sample_Lifelong_Active_Recognition_ICCV_2021_paper.pdf), **Lei Fan**, Peixi Xiong, Wei Wei, Ying Wu, accepted by IEEE International Conference on Computer Vision (**ICCV**), 2021. -->
 
 - [SemaSuperpixel: A Multi-channel Probability-driven Superpixel Segmentation Method](https://ieeexplore.ieee.org/document/9506437), Xuehui Wang, Qingyun Zhao, **Lei Fan**, Yuzhi Zhao, Tiantian Wang, Qiong Yan, Long Chen, accepted by IEEE International Conference on Image Processing (**ICIP**), 2021.
 
