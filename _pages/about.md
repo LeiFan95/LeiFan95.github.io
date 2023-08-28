@@ -24,7 +24,7 @@ I am constantly investigating the challenges inherent to active vision agents in
 
 Prior to my Ph.D., my researches primarily focused on the perception in autonomous driving vehicles, encompassing areas such as stereo vision, 3D mapping, moving-object detection and map repair. 
 
-My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on March 2023).
+My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on August 2023).
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉 Our paper on *uncertainty estimation* has been accepted to ICCV 2023! Appreciation goes out to all advisors: Dr. Bo Liu, Dr. Haoxiang Li, Prof. Ying Wu, and Prof. Gang Hua!
