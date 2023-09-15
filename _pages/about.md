@@ -40,7 +40,7 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/overview/ICCV23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance]()
+[Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance](https://arxiv.org/pdf/2309.07403.pdf)
 
 **Lei Fan**, Bo Liu, Haoxiang Li, Ying Wu, Gang Hua
 
