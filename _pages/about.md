@@ -111,6 +111,9 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2023.06 - 2023.09*, Applied Scientist Intern, [Amazon Robotics](https://www.amazon.science/research-areas/robotics), Seattle, US.<br />
+  <span style="color:grey">- Topic: Surface normal estimation and stability analysis.</span><br />
+  <span style="color:grey">- Advisors: Dr. Shantanu Thaker, Dr. Sisir Karumanchi.</span>
 - *2022.06 - 2022.09*, Research Intern, [Wormpex AI Research](http://research.wormpex.com/), Bellevue, US.<br />
   <span style="color:grey">- Topic: Uncertainty quantification for deep visual recognition.</span><br />
   <span style="color:grey">- Advisors: Dr. Bo Liu, Dr. Haoxiang Li, and Dr. Gang Hua.</span>
