@@ -44,7 +44,8 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 
 **Lei Fan**, Bo Liu, Haoxiang Li, Ying Wu, Gang Hua
 
-[**Supplementary**]() <strong><span class='' data=''></span></strong> | 
+[**Supplementary**](./files/ICCV_2023_Supplementary.pdf) <strong><span class='' data=''></span></strong> | 
+[**Poster**](./files/ICCV_2023_Poster.pdf) <strong><span class='' data=''></span></strong> |
 [**Project**]() <strong><span class='' data=''></span></strong>
 - Modeling both confusion and ignorance with hyper-opinions.
 - Proposing a hierarchical structure with binary plausible functions to handle the challenge of 2^K predictions.
