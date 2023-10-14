@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+    content="The evidential quantification of two different sources of uncertainties, namely confusion and ignorance, is examined. A new task, termed 'flexible recognition,' is proposed to reflect successful measure of these two uncertainties.">
+  <meta name="keywords" content="Uncertainty estimation, Evidential deep learning, Visual recognition">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src=""></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+
+<body>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Flexible Visual Recognition by Evidential Modeling of Confusion and
+              Ignorance</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="https://leifan95.github.io/">Lei Fan</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://scholar.google.com/citations?user=NOgz-HsAAAAJ&hl=en">Bo liu</a><sup>2</sup>,</span>
+              <span class="author-block">
+                <a href="http://blog.haoxiang.org/haoxiang.html">Haoxiang Li</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="http://users.ece.northwestern.edu/~yingwu/">Ying Wu</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://www.ganghua.org/">Gang Hua</a><sup>2</sup>,
+              </span>
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup>1</sup>Northwestern University,</span>
+              <span class="author-block"><sup>2</sup>Wormpex AI Research</span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <!-- PDF Link. -->
+                <span class="link-block">
+                  <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_Flexible_Visual_Recognition_by_Evidential_Modeling_of_Confusion_and_Ignorance_ICCV_2023_paper.pdf"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://arxiv.org/pdf/2309.07403.pdf"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                    </span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://leifan95.github.io/files/ICCV_2023_Supplementary.pdf"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                    </span>
+                    <span>Supplementary</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://leifan95.github.io/files/ICCV_2023_Poster.pdf"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Poster</span>
+                  </a>
+                </span>
+                <!-- Code Link. -->
+                <span class="link-block">
+                  <a href="" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <img src="./static/images/first_sight.png" class="image" />
+        <h2 class="subtitle has-text-centered">
+          Two different kinds of uncertainties occur in recognition failures: confusion, which leads to
+          misclassification between known classes, and ignorance, which leads to misbehavior with unknown-class images.
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <img src="./static/images/flexible.png" class="image" />
+        <h2 class="subtitle has-text-centered">
+          The proposed approach on images interpolated from a known-known-unknown triplet.
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              In real-world scenarios, typical visual recognition systems could fail under two major causes, i.e., the
+              misclassification between known classes and the excusable misbehavior on unknown-class images.
+            </p>
+            <p>
+              To tackle these deficiencies, flexible visual recognition should dynamically predict multiple classes when
+              they are unconfident between choices and reject making predictions when the input is entirely out of the
+              training distribution. Two challenges emerge along with this novel task. First, prediction uncertainty
+              should be separately quantified as confusion depicting inter-class uncertainties and ignorance identifying
+              out-of-distribution samples. Second, both confusion and ignorance should be comparable between samples to
+              enable effective decisionmaking.
+            </p>
+            <p>
+              In this paper, we propose to model these two sources of uncertainty
+              explicitly with the theory of Subjective Logic. Regarding recognition as an evidence-collecting process,
+              confusion is then defined as conflicting evidence, while ignorance is the absence of evidence. By
+              predicting
+              Dirichlet concentration parameters for singletons, comprehensive subjective opinions, including confusion
+              and ignorance, could be achieved via further evidence combinations. Through a series of experiments on
+              synthetic data analysis, visual recognition, and open-set detection, we demonstrate the effectiveness of
+              our
+              methods in quantifying two sources of uncertainties and dealing with flexible recognition.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Method -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">Method</h2>
+          <img src="./static/images/combine.png" class="image" />
+          <h2 class="subtitle has-text-centered">
+            We develop our method under the theory of Subjective Logic. Confusion is the shared evidence contributing to
+            multiple categories while not discriminative between them, while ignorance is completely missing evidence.
+          </h2>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Experimental results -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">Experimental Results</h2>
+
+          <h3 class="title is-4">Synthetic dataset</h3>
+          <div class="content has-text-justified">
+            <p>
+              A 3-class classification problem. The Gaussian-distributed training data are depicted with dots, while the
+              background color indicates the predicted value of the corresponding location. We provide our model’s
+              estimated single-class belief, confusion and ignorance. The entropy over predictions
+              of a standard net trained with cross-entropy loss is shown in the last subfigure for comparison.
+              <img src="./static/images/synthetic.png" class="image" />
+            </p>
+          </div>
+          <br />
+
+          <h3 class="title is-4">Per-sample quantitative results</h3>
+          <div class="content has-text-justified">
+            <p>
+              Matrices of confusion of misclassified samples on the CIFAR-10 dataset. The diagonal of each matrix is set
+              to the singleton belief of each class. Notice that each heatmap is normalized individually. The total
+              ignorance is demonstrated in the caption.
+              <img src="./static/images/qualittive.png" class="image" />
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@inproceedings{fan2023flexible,
+  title={Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance},
+  author={Fan, Lei and Liu, Bo and Li, Haoxiang and Wu, Ying and Hua, Gang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1338--1347},
+  year={2023}
+}</code></pre>
+    </div>
+  </section>
+
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              The website template is borrowed from <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>
