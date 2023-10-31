@@ -33,7 +33,7 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 - *2022.10*: &nbsp;🎉 Our paper *Avoiding lingering in learning active recognition by adversarial disturbance* has been accepted to WACV 2023!
 
 # 📖 Educations
-- *2019.09 - 2023.12 (expected)*, Ph.D. cadidate in Electrical Engineering, advised by [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/), Northwestern University.
+- *2019.09 - 2024.01 (expected)*, Ph.D. cadidate in Electrical Engineering, advised by [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/), Northwestern University.
 - *2017.09 - 2019.06*, M.S. in Computer Science, advised by [Prof. Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN), Sun Yat-sen University.
 - *2013.09 - 2017.06*, B.E. in Computer Science, Sun Yat-sen University.
 
