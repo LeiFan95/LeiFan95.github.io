@@ -38,7 +38,24 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 - *2013.09 - 2017.06*, B.E. in Computer Science, Sun Yat-sen University.
 
 # 📝 Publications
-- [Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception](https://arxiv.org/pdf/2311.13793.pdf), **Lei Fan**, Mingfu Liang, Yunxuan Li, Gang Hua, Ying Wu, ***Under Review***.
+
+<!-- - [Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception](https://arxiv.org/pdf/2311.13793.pdf), **Lei Fan**, Mingfu Liang, Yunxuan Li, Gang Hua, Ying Wu, ***Under Review***. -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overview/EAR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception](https://arxiv.org/pdf/2311.13793.pdf)
+
+**Lei Fan**, Mingfu Liang, Yunxuan Li, Gang Hua, Ying Wu
+
+[**Dataset (coming soon)**]() <strong><span class='' data=''></span></strong> | 
+[**Project (coming soon)**]() <strong><span class='' data=''></span></strong> |
+[**Video**]() <strong><span class='' data=''></span></strong>
+- Handling unexpected visual inputs for embodied agent's training and testing in open environments.
+- Collect a dataset for evaluating active recognition agents. Each testing sample is accompanied with a recognition difficulty level.
+- Applying evidential deep learning and evidence combination for frame-wise information fusion, mitigating unexpected image interference.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/overview/ICCV23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +73,7 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/overview/WACV23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/overview/WACV23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Avoiding Lingering in Learning Active Recognition by Adversarial Disturbance](https://openaccess.thecvf.com/content/WACV2023/papers/Fan_Avoiding_Lingering_in_Learning_Active_Recognition_by_Adversarial_Disturbance_WACV_2023_paper.pdf)
 
@@ -69,7 +86,7 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/overview/ICCV21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/overview/ICCV21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FLAR: A Unified Prototype Framework for Few-sample Lifelong Active Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FLAR_A_Unified_Prototype_Framework_for_Few-Sample_Lifelong_Active_Recognition_ICCV_2021_paper.pdf)
 
