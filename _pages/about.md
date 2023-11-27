@@ -38,7 +38,7 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 - *2013.09 - 2017.06*, B.E. in Computer Science, Sun Yat-sen University.
 
 # 📝 Publications
-- [Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception]([https://ieeexplore.ieee.org/document/9506437](https://arxiv.org/pdf/2311.13793.pdf)), **Lei Fan**, Mingfu Liang, Yunxuan Li, Gang Hua, Ying Wu, ***Under Review***.
+- [Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception](https://arxiv.org/pdf/2311.13793.pdf), **Lei Fan**, Mingfu Liang, Yunxuan Li, Gang Hua, Ying Wu, ***Under Review***.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/overview/ICCV23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
