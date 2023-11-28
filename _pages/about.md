@@ -39,7 +39,19 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 
 # 📝 Publications
 
-<!-- - [Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception](https://arxiv.org/pdf/2311.13793.pdf), **Lei Fan**, Mingfu Liang, Yunxuan Li, Gang Hua, Ying Wu, ***Under Review***. -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overview/AOVR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations]()
+
+**Lei Fan**, Jianxiong Zhou, Xiaoying Xing, Ying Wu
+
+[**Project (coming soon)**]() <strong><span class='' data=''></span></strong> |
+[**Video**]() <strong><span class='' data=''></span></strong>
+- Investigate CLIP's limitations in embodied perception scenarios, emphasizing diverse viewpoints and occlusion degrees.
+- Propose an active agent to mitigate CLIP's limitations, aiming for active open-vocabulary recognition.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overview/EAR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
