@@ -41,7 +41,7 @@ My detailed resume/CV is [here](./files/LeiFan_Resume.pdf) (last updated on Augu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overview/AOVR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations]()
+[Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations](https://arxiv.org/pdf/2311.17938.pdf)
 
 **Lei Fan**, Jianxiong Zhou, Xiaoying Xing, Ying Wu
 
