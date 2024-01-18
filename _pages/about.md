@@ -20,7 +20,7 @@ redirect_from:
 **Greetings from Evanston.** 
 
 I am currently a Ph.D. candidate at Northwestern University under the supervision of [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/). My research interests lies in **the intersection of computer vision and robotics**, with a particular emphasis on <ins>**active vision**</ins> (<ins>*the agent is endowed with the ability to move and perceive*</ins>).
-I am constantly investigating the challenges inherent to active vision agents in an open-world context. These challenges include, but are not limited to, *continual learning*, *few-sample learning*, and *uncertainty quantification*.
+I am constantly investigating the challenges inherent to active vision agents in an open-world context. These challenges include, but are not limited to, *continual learning*, *few-sample learning*, *uncertainty quantification* and *vision-language models*.
 
 Prior to my Ph.D., my researches primarily focused on the perception in autonomous driving vehicles, encompassing areas such as stereo vision, 3D mapping, moving-object detection and map repair. 
 
