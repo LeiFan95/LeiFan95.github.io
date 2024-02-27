@@ -27,7 +27,7 @@ Prior to my Ph.D., my researches primarily focused on the perception in autonomo
 My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Dec 2023).
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉 Two papers on *active recognition* for embodied agents have been accepted by CVPR 2024! Thanks to all my collaborators.
+- *2024.02*: &nbsp;🎉 Two papers on *active recognition* for embodied agents have been accepted by CVPR 2024! Thanks to all my collaborators!
 - *2023.07*: &nbsp;🎉 Our paper on *uncertainty estimation* has been accepted to ICCV 2023! Appreciation goes out to all advisors: Dr. Bo Liu, Dr. Haoxiang Li, Prof. Ying Wu, and Prof. Gang Hua!
 - *2023.03*: &nbsp;🎉 I will join [Amazon Robotics](https://www.amazon.science/research-areas/robotics) as an Applied Scientist Intern this summer!
 - *2023.03*: &nbsp;🎉 I passed my Ph.D. prospectus exam! I would like to extend my gratitude to my committee: Prof. Ying Wu, Prof. Qi Zhu, and Prof. Thrasos N. Pappas.
