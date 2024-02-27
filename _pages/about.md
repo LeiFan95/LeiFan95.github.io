@@ -33,7 +33,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Dec
 - *2023.03*: &nbsp;🎉 I passed my Ph.D. prospectus exam! I would like to extend my gratitude to my committee: Prof. Ying Wu, Prof. Qi Zhu, and Prof. Thrasos N. Pappas.
 
 # 📖 Educations
-- *2019.09 - 2024.01 (expected)*, Ph.D. cadidate in Electrical Engineering, advised by [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/), Northwestern University.
+- *2019.09 - 2024.06 (expected)*, Ph.D. cadidate in Electrical Engineering, advised by [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/), Northwestern University.
 - *2017.09 - 2019.06*, M.S. in Computer Science, advised by [Prof. Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN), Sun Yat-sen University.
 - *2013.09 - 2017.06*, B.E. in Computer Science, Sun Yat-sen University.
 
