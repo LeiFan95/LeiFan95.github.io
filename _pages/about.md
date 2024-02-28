@@ -39,7 +39,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Feb
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appear at CVPR 2024</div><img src='images/overview/AOVR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To appear at CVPR 2024</div><img src='images/overview/AOVR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations](https://arxiv.org/pdf/2311.17938.pdf)
 
@@ -53,7 +53,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Feb
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appear at CVPR 2024</div><img src='images/overview/EAR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To appear at CVPR 2024</div><img src='images/overview/EAR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception](https://arxiv.org/pdf/2311.13793.pdf)
 
