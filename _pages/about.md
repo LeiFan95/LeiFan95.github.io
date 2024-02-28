@@ -24,7 +24,7 @@ I am constantly investigating the challenges inherent to active vision agents in
 
 Prior to my Ph.D., my researches primarily focused on the perception in autonomous driving vehicles, encompassing areas such as stereo vision, 3D mapping, moving-object detection and map repair. 
 
-My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Dec 2023).
+My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Feb 2024).
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉 Two papers on *active recognition* for embodied agents have been accepted by CVPR 2024! Thanks to all my collaborators!
@@ -39,7 +39,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Dec
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overview/AOVR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appear at CVPR</div><img src='images/overview/AOVR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations](https://arxiv.org/pdf/2311.17938.pdf)
 
@@ -53,7 +53,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Dec
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overview/EAR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appear at CVPR</div><img src='images/overview/EAR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception](https://arxiv.org/pdf/2311.13793.pdf)
 
