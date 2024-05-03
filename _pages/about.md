@@ -28,7 +28,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Feb
 
 # 🔥 News
 - *2024.05*: The proposed dataset to evaluate active recognition has been made publicly available! Please refer to [the page](AR-dataset/index.html) for details.
-- *2024.04*: &nbsp;🎉 I have successfully defended my Ph.D.! I would like to extend my gratitude to my committee: Prof. Ying Wu, Prof. Qi Zhu, and Prof. Thrasos N. Pappas. I will join [Amazon Robotics](https://www.amazon.science/research-areas/robotics) as an Applied Scientist this summer!
+- *2024.04*: &nbsp;🎉 I have successfully defended my Ph.D.! I would like to extend my gratitude to my committee: Prof. Ying Wu, Prof. Qi Zhu, and Prof. Thrasos N. Pappas. And I will join [Amazon Robotics](https://www.amazon.science/research-areas/robotics) as an Applied Scientist this summer!
 - *2024.02*: &nbsp;🎉 Two papers on *active recognition* for embodied agents have been accepted by CVPR 2024! Thanks to all my collaborators!
 - *2023.07*: &nbsp;🎉 Our paper on *uncertainty estimation* has been accepted to ICCV 2023! Appreciation goes out to all advisors: Dr. Bo Liu, Dr. Haoxiang Li, Prof. Ying Wu, and Prof. Gang Hua!
 
