@@ -60,7 +60,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Feb
 **Lei Fan**, Mingfu Liang, Yunxuan Li, Gang Hua, Ying Wu
 
 [**Supplementary**](./files/CVPR_2024_EAR_supplemenraty.pdf) <strong><span class='' data=''></span></strong> | 
-[**Dataset (coming soon)**]() <strong><span class='' data=''></span></strong> | 
+[**Dataset**](AR-dataset/index.html) <strong><span class='' data=''></span></strong> | 
 [**Project (coming soon)**]() <strong><span class='' data=''></span></strong> |
 [**Video**]() <strong><span class='' data=''></span></strong>
 - Handling unexpected visual inputs for embodied agent's training and testing in open environments.
