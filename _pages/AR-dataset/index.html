@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+    content="The difficulty-designated dataset to evaluate active recognition agents in the Habitat simulator.">
+  <meta name="keywords" content="Embodied AI, Active visual recognition">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Difficulty-designated Dataset for Active Recognition</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src=""></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+
+<body>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Difficulty-designated Dataset for Active Recognition</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="https://leifan95.github.io/">Lei Fan</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://www.mingfuliang.com/">Mingfu Liang</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="">Yunxuan Li</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://www.ganghua.org/">Gang Hua</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="http://users.ece.northwestern.edu/~yingwu/">Ying Wu</a><sup>1</sup>,
+              </span>
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup>1</sup>Northwestern University,</span>
+              <span class="author-block"><sup>2</sup>Wormpex AI Research</span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <span class="link-block">
+                  <a href="https://arxiv.org/pdf/2311.13793" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                    </span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://leifan95.github.io/files/CVPR_2024_EAR_supplemenraty.pdf" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Supplementary</span>
+                  </a>
+                </span>
+                <!-- Data JSON Link. -->
+                <span class="link-block">
+                  <a href="https://drive.google.com/file/d/1GqFEKMnzEgLCcMqIMdqBaMA0hG6Jn87H/view?usp=drive_link" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="far fa-images"></i>
+                    </span>
+                    <span>Dataset (with visualization)</span>
+                  </a>
+                </span>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Important notice -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h3 class="title is-4">*Important notice</h3>
+          <div class="content has-text-justified">
+            <p></p><em>
+              <b>The proposed dataset for active recognition solely includes JSON files</b> containing locations, class labels, difficulty levels, etc. 
+              <br>
+              To effectively utilize this dataset, you will need the original <a href="https://niessner.github.io/Matterport/#download">Matterport3D</a> scene dataset along with the <a href="https://github.com/facebookresearch/habitat-sim/tree/main">Habitat simulator</a>. 
+              <br>
+              This page <b>does not</b> provide or grant access to the original Matterport3D scene dataset.
+              Please review the <a href="https://kaldir.vc.in.tum.de/matterport/MP_TOS.pdf">Matterport3D dataset agreement</a> and contact the dataset team to download the original scene dataset.
+            </em></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Overview -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">Overview</h2>
+          <div class="content has-text-justified">
+            <p>
+              This is a dataset to evaluate active recognition agent in indoor environments. A total of 13,200 testing samples with 27 common object categories are contained in this dataset.<br>
+              Moreover, to show the advantage of active recognition in handling recognition challenges by intelligently moving, we assign a recognition difficulty level to each testing sample, considering visibility, distance and observed pixels.
+            </p>
+          </div><br>
+          <img src="./static/images/ds_example.png" class="center_fig" /><br>
+          <h5 class="subtitle has-text-centered">
+            Two testing examples from the proposed dataset.
+          </h5>
+          <br>
+          In the above figure, the target object is covered by a green mask, allowing for box, point or mask queries during testing. The targets are respectively occluded by the wall and the bed, thus visibility is calculated as the ratio of observed pixels to total pixels belonging to the target. The agent is then allowed to freely move in the scene to avoid negative recognition conditions and achieve better recognition performance.
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- What is active recognition -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">Active Recognition</h2>
+          <div class="content has-text-justified">
+            <p>
+              The agent is given the ability to move intelligently in order to perceive.
+            </p>
+          </div>
+          <img src="./static/images/AR.gif" class="center_gif" />
+          <h5 class="subtitle has-text-centered">
+            An agent can intelligently adjust its viewpoint to correct errors in recognition.
+          </h5>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why did we build this dataset? -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">Why did we build this dataset?</h2>
+          <div class="content has-text-justified">
+            <p>
+              Active recognition is supposed to address <b>recognition challenges</b> that cannot be resolved by passive recognition.
+              <ul><em>
+                <li>Ambiguous viewpoints</li>
+                <li>Heavy occlusions</li>
+                <li>Out-of-view conditions</li>
+                <li>Distant views</li></em>
+              </ul>
+              However, we do not have a dataset to evaluate the advantage of active recognition on handling these challenges. To better faciliate evaluation of active recognition in indoor simulator, we collect and propose this dataset.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How to use this dataset? -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">How to use this dataset?</h2>
+          <div class="content has-text-justified">
+            <p>
+              <ol>
+                <li>Obtain access and download <a href="https://niessner.github.io/Matterport/#download">Matterport3D</a> scene dataset.</li>
+                <li>Setup a simulator that allows exploring Matterport3D dataset. We recommend using <a href="https://github.com/facebookresearch/habitat-sim/tree/main">Habitat simulator</a> which allows you to build a recognition agent to freely move in indoor scenes. </li>
+                <li>Download <a href="">the proposed difficulty-designated dataset</a>.</li>
+                <li>Customize a loading function to load JSON files in the proposed dataset. And then place the agent to the location given in the JSON file.</li>
+              </ol>
+              <b>JSON file contains all testing samples (episodes) for the scene.
+              And each testing sample looks like this.</b><br>
+              <code>
+                {<br>
+                  'episode_id': 0, <em style="color:blue;"># The episode id or testing sample id.</em><br>
+                  'scene_id': '17DRP5sb8fy', <em style="color:blue;"># The corresponding Matterport3D scene id of this testing sample.</em><br>
+                  'start_position': [-4.457194805145264, 0.07244700193405151, -0.34131553769111633], <em style="color:blue;"># Starting location of the agent in meters.</em><br>
+                  'start_rotation': [0.7880107536067219, 0.0, 0.6156614753256583, 0.0], <em style="color:blue;"># Starting rotation of the agent in quaternion.</em><br>
+                  'target_categrory': 'shower', <em style="color:blue;"># Semantic lable of the target.</em><br>
+                  'target_id': 51, <em style="color:blue;"># Instance id in the current scene.</em><br>
+                  'target_center': [-7.461709976196289, 0.07809627056121826, 1.849059820175171], <em style="color:blue;"># The location of the target center in meters.</em><br>
+                  'euclidean_distance': 3.7181832017830274, <em style="color:blue;"># Distance between the agent and the target in meters</em><br>
+                  'unocc_percent': 0.6022278117139778, <em style="color:blue;"># The ratio between visible pixels and all pixels (visible or occluded) belonging to the target in the current viewing window.</em><br>
+                  'vis_percent': 0.1463435931019428, <em style="color:blue;"># The ratio between visible pixels and all pixels (visible or occluded) belonging to the target. It also considers pixels that are out of the viewing window.</em><br>
+                  'difficulty': 2, <em style="color:blue;">Designated recognition difficulty level. 0 - Easy | 1 - Moderate | 2 - Hard </em><br>
+                  'obs_pixels_unocc': 3352, <em style="color:blue;">Number of unocludded pixels.</em> <br>
+                  'obs_pixels_vis_all': 5566, <em style="color:blue;">Number of pixels belonging to the target in the current viewing window.</em> <br>
+                  'obs_pixels_all': 22905 <em style="color:blue;">Number of pixels belonging to the target.</em> <br>
+                }
+              </code><br>
+              <img src="./static/images/shower_51_000000.png" class="center_fig" /><br>
+              <h6 class="subtitle has-text-centered">
+                The corresponding visualization of this testing sample. The target 'shower' is covered by a green mask.
+              </h6>
+
+              <b>For the agent, we have the following setup.</b><br>
+              <code>
+                'camera_resolution': [640, 800],
+                'camera_height': 1.0<br>
+              </code><br>
+              <em>Please send me an email if you have any questions or encounter any trouble using this dataset.</em>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How did we assign recognition difficulty levels? -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">How did we assign recognition difficulty levels?</h2>
+          <div class="content has-text-justified">
+            <p>
+              We consider three aspects, i.e., <em><b>visibility</b></em>, <em><b>relative distance</b></em> and <em><b></b>observed pixels</b></em>, to assign the difficulty level. For details, please refer to Section 1.1 in our <a href="https://leifan95.github.io/files/CVPR_2024_EAR_supplemenraty.pdf">supplementary</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- More Statistics -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">More Statistics</h2>
+
+          <div class="row">
+            <div class="column_stat">
+              <img src="./static/images/stats/category.jpeg" style="width:100%">
+              <h6 class="subtitle has-text-centered">
+                Instances for each category.
+              </h6>
+            </div>
+            <div class="column_stat">
+              <img src="./static/images/stats/distance.png" style="width:100%">
+              <h6 class="subtitle has-text-centered">
+                Instances for each category.
+              </h6>
+            </div>
+          </div>
+          <div class="row">
+            <div class="column_stat">
+              <img src="./static/images/stats/difficulty_cat.png" style="width:100%">
+              <h6 class="subtitle has-text-centered">
+                Instances of different difficulty levels for each category.
+              </h6>
+            </div>
+            <div class="column_stat">
+              <img src="./static/images/stats/distance_cat.png" style="width:100%">
+              <h6 class="subtitle has-text-centered">
+                Instances of different distances for each category.
+              </h6>
+            </div>
+          </div>
+          <div class="row">
+            <div class="column_stat">
+              <img src="./static/images/stats/visibility_cat.png" style="width:100%">
+              <h6 class="subtitle has-text-centered">
+                Instances of different visibility ranges for each category.
+              </h6>
+            </div>
+            <div class="column_stat">
+              <img src="./static/images/stats/occlusion_cat.png" style="width:100%">
+              <h6 class="subtitle has-text-centered">
+                Instances of different occlusion ranges for each category.
+              </h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@article{fan2023evidential,
+  title={Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception},
+  author={Fan, Lei and Liang, Mingfu and Li, Yunxuan and Hua, Gang and Wu, Ying},
+  journal={arXiv preprint arXiv:2311.13793},
+  year={2023}
+}
+      </code></pre>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              The website template is borrowed from <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>
