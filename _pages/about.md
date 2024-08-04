@@ -33,7 +33,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 - *2023.07*: &nbsp;🎉 Our paper on *uncertainty estimation* has been accepted to ICCV 2023! Appreciation goes out to all advisors: Dr. Bo Liu, Dr. Haoxiang Li, Prof. Ying Wu, and Prof. Gang Hua!
 
 # 📖 Educations
-- *2019 - 2024*, M.S. Ph.D. in Electrical Engineering, advised by [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/), Northwestern University.
+- *2019 - 2024*, M.S., Ph.D. in Electrical Engineering, advised by [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/), Northwestern University.
 - *2013 - 2019*, B.E., M.S. in Computer Science, advised by [Prof. Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN), Sun Yat-sen University.
 
 # 📝 Publications
