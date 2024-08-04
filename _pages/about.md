@@ -24,7 +24,7 @@ I am constantly investigating the challenges inherent to active vision agents in
 
 Prior to my Ph.D., my researches primarily focused on the perception in autonomous driving vehicles, encompassing areas such as stereo vision, 3D mapping, moving-object detection and map repair. 
 
-My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Feb 2024).
+My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on July 2024).
 
 # 🔥 News
 - *2024.05*: The proposed dataset to evaluate active recognition has been made publicly available! Please refer to [the page](AR-dataset/index.html) for details.
@@ -33,9 +33,8 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Feb
 - *2023.07*: &nbsp;🎉 Our paper on *uncertainty estimation* has been accepted to ICCV 2023! Appreciation goes out to all advisors: Dr. Bo Liu, Dr. Haoxiang Li, Prof. Ying Wu, and Prof. Gang Hua!
 
 # 📖 Educations
-- *2019.09 - 2024.06 (expected)*, Ph.D. cadidate in Electrical Engineering, advised by [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/), Northwestern University.
-- *2017.09 - 2019.06*, M.S. in Computer Science, advised by [Prof. Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN), Sun Yat-sen University.
-- *2013.09 - 2017.06*, B.E. in Computer Science, Sun Yat-sen University.
+- *2019 - 2024*, M.S. Ph.D. in Electrical Engineering, advised by [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/), Northwestern University.
+- *2013 - 2019*, B.E., M.S. in Computer Science, advised by [Prof. Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN), Sun Yat-sen University.
 
 # 📝 Publications
 
