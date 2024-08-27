@@ -44,7 +44,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 
 **Lei Fan**, Jianxiong Zhou, Xiaoying Xing, Ying Wu
 
-[**Poster**](./files/CVPR_2024_AOR_Poster.pdf) <strong><span class='' data=''></span></strong> |
+[**Poster**](./files/CVPR_2024_AOR_poster.pdf) <strong><span class='' data=''></span></strong> |
 [**Project (coming soon)**]() <strong><span class='' data=''></span></strong> |
 [**Video**]() <strong><span class='' data=''></span></strong>
 - Investigate CLIP's limitations in embodied perception scenarios, emphasizing diverse viewpoints and occlusion degrees.
@@ -60,7 +60,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 **Lei Fan**, Mingfu Liang, Yunxuan Li, Gang Hua, Ying Wu
 
 [**Supplementary**](./files/CVPR_2024_EAR_supplemenraty.pdf) <strong><span class='' data=''></span></strong> | 
-[**Poster**](./files/CVPR_2024_EAR_Poster.pdf) <strong><span class='' data=''></span></strong> |
+[**Poster**](./files/CVPR_2024_EAR_poster.pdf) <strong><span class='' data=''></span></strong> |
 [**Dataset**](AR-dataset/index.html) <strong><span class='' data=''></span></strong> | 
 [**Project (coming soon)**]() <strong><span class='' data=''></span></strong> |
 [**Video**]() <strong><span class='' data=''></span></strong>
