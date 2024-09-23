@@ -79,7 +79,8 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 
 [**Supplementary**](./files/ICCV_2023_Supplementary.pdf) <strong><span class='' data=''></span></strong> | 
 [**Poster**](./files/ICCV_2023_Poster.pdf) <strong><span class='' data=''></span></strong> |
-[**Project**](flexible-recognition/index.html) <strong><span class='' data=''></span></strong>
+[**Project**](flexible-recognition/index.html) <strong><span class='' data=''></span></strong> |
+[**Code**](./files/ICCV_2023_loss.py) <strong><span class='' data=''></span></strong>
 - Modeling both confusion and ignorance with hyper-opinions.
 - Proposing a hierarchical structure with binary plausible functions to handle the challenge of 2^K predictions.
 - Experiments with synthetic data, flexible visual recognition, and open-set detection validate our approach.
