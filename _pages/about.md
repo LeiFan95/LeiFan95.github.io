@@ -19,7 +19,9 @@ redirect_from:
 
 **Greetings from Evanston.** 
 
-I am currently a Ph.D. candidate at Northwestern University under the supervision of [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/). My research interests lies in **the intersection of computer vision and robotics**, with a particular emphasis on <ins>**active vision**</ins> (<ins>*the agent is endowed with the ability to move and perceive*</ins>).
+I am currently an Applied Scientist with Amazon Rufus team, building Multimodal-LLMs. My current focus includes MLLM post-training, visual reasoning and visual tokenization.
+
+Previously, I was a Ph.D. candidate at Northwestern University under the supervision of [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/). My research interests lies in **the intersection of computer vision and robotics**, with a particular emphasis on <ins>**active vision**</ins> (<ins>*the agent is endowed with the ability to move and perceive*</ins>).
 I am constantly investigating the challenges inherent to active vision agents in an open-world context. These challenges include, but are not limited to, *continual learning*, *few-sample learning*, *uncertainty quantification* and *vision-language models*.
 
 Prior to my Ph.D., my researches primarily focused on the perception in autonomous driving vehicles, encompassing areas such as stereo vision, 3D mapping, moving-object detection and map repair. 
@@ -27,6 +29,8 @@ Prior to my Ph.D., my researches primarily focused on the perception in autonomo
 My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on July 2024).
 
 # 🔥 News
+- *2025.02*: One co-authored paper on *visual localization under extreme viewpoint changes* got accepted by CVPR 2025! Congratulations to Yunxuan and other authors.
+- *2024.10*: One co-authored paper on *visual question answering* got accepeted by EMNLP 2024! Congratulations to Xiaoying and other authors.
 - *2024.05*: The proposed dataset to evaluate active recognition has been made publicly available! Please refer to [the page](AR-dataset/index.html) for details.
 - *2024.04*: &nbsp;🎉 I have successfully defended my Ph.D.! I would like to extend my gratitude to my committee: Prof. Ying Wu, Prof. Qi Zhu, and Prof. Thrasos N. Pappas. And I will join [Amazon Robotics](https://www.amazon.science/research-areas/robotics) as an Applied Scientist this summer!
 - *2024.02*: &nbsp;🎉 Two papers on *active recognition* for embodied agents have been accepted by CVPR 2024! Thanks to all my collaborators!
@@ -115,6 +119,8 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 </div>
 
 <!-- - [Avoiding Lingering in Learning Active Recognition by Adversarial Disturbance](https://openaccess.thecvf.com/content/WACV2023/papers/Fan_Avoiding_Lingering_in_Learning_Active_Recognition_by_Adversarial_Disturbance_WACV_2023_paper.pdf), **Lei Fan**, Ying Wu, accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023. -->
+
+- [Learning to Ask Denotative and Connotative Questions for Knowledge-based VQA](https://aclanthology.org/2024.findings-emnlp.487.pdf), Xiaoying Xing, Peixi Xiong, **Lei Fan**, Yunxuan Li and Ying Wu, accepted by Findings of the Association for Computational Linguistics: (**EMNLP Findings**), 2024.
 
 - [Unsupervised Depth Completion and Denoising for RGB-D Sensors](https://ieeexplore.ieee.org/document/9812392), **Lei Fan**, Yunxuan Li, Chen Jiang, Ying Wu, accepted by IEEE International Conference on Robotics and Automation (**ICRA**), 2022.
 
