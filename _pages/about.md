@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Greetings from Evanston.** 
+**Greetings from Seattle.** 
 
 I am currently an Applied Scientist with Amazon Rufus team, building Multimodal-LLMs. My current focus includes MLLM post-training, visual reasoning and visual tokenization.
 
