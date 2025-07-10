@@ -26,13 +26,13 @@ I am constantly investigating the challenges inherent to active vision agents in
 
 Prior to my Ph.D., my researches primarily focused on the perception in autonomous driving vehicles, encompassing areas such as stereo vision, 3D mapping, moving-object detection and map repair. 
 
-My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on July 2024).
+My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on July 2025).
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉 One co-authored paper on *visual localization under extreme viewpoint changes* got accepted by CVPR 2025! Congratulations to Yunxuan and other authors.
 - *2024.10*: &nbsp;🎉 One co-authored paper on *visual question answering* got accepeted by EMNLP 2024! Congratulations to Xiaoying and other authors.
 - *2024.05*: The proposed dataset to evaluate active recognition has been made publicly available! Please refer to [the page](AR-dataset/index.html) for details.
-- *2024.04*: &nbsp;🎉 I have successfully defended my Ph.D.! I would like to extend my gratitude to my committee: Prof. Ying Wu, Prof. Qi Zhu, and Prof. Thrasos N. Pappas. And I will join [Amazon Robotics](https://www.amazon.science/research-areas/robotics) as an Applied Scientist this summer!
+- *2024.04*: &nbsp;🎉 I have successfully defended my Ph.D.! I would like to extend my gratitude to my committee: Prof. Ying Wu, Prof. Qi Zhu, and Prof. Thrasos N. Pappas. And I will join Amazon as an Applied Scientist this summer!
 - *2024.02*: &nbsp;🎉 Two papers on *active recognition* for embodied agents have been accepted by CVPR 2024! Thanks to all my collaborators!
 - *2023.07*: &nbsp;🎉 Our paper on *uncertainty estimation* has been accepted to ICCV 2023! Appreciation goes out to all advisors: Dr. Bo Liu, Dr. Haoxiang Li, Prof. Ying Wu, and Prof. Gang Hua!
 
