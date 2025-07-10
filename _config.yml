@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lei Fan"
-description              : "Ph.D. candidate at Northwestern University,</br> Intested in embodied AI, especially active vision."
+description              : "Applied scientist with Amazon Rufus & Ph.D. from Northwestern University,</br> Intested in embodied AI, MLLMs and reasoning."
 repository               : "LeiFan95/leifan.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lei Fan"
   avatar           : "images/photo.jpg"
-  bio              : "Northwestern University"
-  location         : "Evanston, US"
+  bio              : "Amazon"
+  location         : "Seattle, US"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OWMmwZQAAAAJ&hl=en"
