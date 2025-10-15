@@ -118,35 +118,35 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 </div>
 </div>
 
-<!-- - [Avoiding Lingering in Learning Active Recognition by Adversarial Disturbance](https://openaccess.thecvf.com/content/WACV2023/papers/Fan_Avoiding_Lingering_in_Learning_Active_Recognition_by_Adversarial_Disturbance_WACV_2023_paper.pdf), **Lei Fan**, Ying Wu, accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023. -->
+<!-- - [Avoiding Lingering in Learning Active Recognition by Adversarial Disturbance](https://openaccess.thecvf.com/content/WACV2023/papers/Fan_Avoiding_Lingering_in_Learning_Active_Recognition_by_Adversarial_Disturbance_WACV_2023_paper.pdf), **Lei Fan**, Ying Wu, IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023. -->
 
-- [GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GPVK-VL_Geometry-Preserving_Virtual_Keyframes_for_Visual_Localization_under_Large_Viewpoint_CVPR_2025_paper.pdf), Yunxuan Li, **Lei Fan**, Xiaoying Xing, Jianxiong Zhou and Ying Wu, accepted by Computer Vision and Pattern Recognition (**CVPR**), 2025.
+- [GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GPVK-VL_Geometry-Preserving_Virtual_Keyframes_for_Visual_Localization_under_Large_Viewpoint_CVPR_2025_paper.pdf), Yunxuan Li, **Lei Fan**, Xiaoying Xing, Jianxiong Zhou and Ying Wu, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
 
-- [Learning to Ask Denotative and Connotative Questions for Knowledge-based VQA](https://aclanthology.org/2024.findings-emnlp.487.pdf), Xiaoying Xing, Peixi Xiong, **Lei Fan**, Yunxuan Li and Ying Wu, accepted by Findings of the Association for Computational Linguistics: (**EMNLP Findings**), 2024.
+- [Learning to Ask Denotative and Connotative Questions for Knowledge-based VQA](https://aclanthology.org/2024.findings-emnlp.487.pdf), Xiaoying Xing, Peixi Xiong, **Lei Fan**, Yunxuan Li and Ying Wu, Findings of the Association for Computational Linguistics: (**EMNLP Findings**), 2024.
 
-- [Unsupervised Depth Completion and Denoising for RGB-D Sensors](https://ieeexplore.ieee.org/document/9812392), **Lei Fan**, Yunxuan Li, Chen Jiang, Ying Wu, accepted by IEEE International Conference on Robotics and Automation (**ICRA**), 2022.
+- [Unsupervised Depth Completion and Denoising for RGB-D Sensors](https://ieeexplore.ieee.org/document/9812392), **Lei Fan**, Yunxuan Li, Chen Jiang, Ying Wu, IEEE International Conference on Robotics and Automation (**ICRA**), 2022.
 
-<!-- - [FLAR: A Unified Prototype Framework for Few-sample Lifelong Active Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FLAR_A_Unified_Prototype_Framework_for_Few-Sample_Lifelong_Active_Recognition_ICCV_2021_paper.pdf), **Lei Fan**, Peixi Xiong, Wei Wei, Ying Wu, accepted by IEEE International Conference on Computer Vision (**ICCV**), 2021. -->
+<!-- - [FLAR: A Unified Prototype Framework for Few-sample Lifelong Active Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FLAR_A_Unified_Prototype_Framework_for_Few-Sample_Lifelong_Active_Recognition_ICCV_2021_paper.pdf), **Lei Fan**, Peixi Xiong, Wei Wei, Ying Wu, IEEE International Conference on Computer Vision (**ICCV**), 2021. -->
 
-- [SemaSuperpixel: A Multi-channel Probability-driven Superpixel Segmentation Method](https://ieeexplore.ieee.org/document/9506437), Xuehui Wang, Qingyun Zhao, **Lei Fan**, Yuzhi Zhao, Tiantian Wang, Qiong Yan, Long Chen, accepted by IEEE International Conference on Image Processing (**ICIP**), 2021.
+- [SemaSuperpixel: A Multi-channel Probability-driven Superpixel Segmentation Method](https://ieeexplore.ieee.org/document/9506437), Xuehui Wang, Qingyun Zhao, **Lei Fan**, Yuzhi Zhao, Tiantian Wang, Qiong Yan, Long Chen, IEEE International Conference on Image Processing (**ICIP**), 2021.
 
-- [Lightweight Single-Image Super-Resolution Network with Attentive Auxiliary Feature Learning](https://arxiv.org/pdf/2011.06773.pdf), Xuehui Wang, Qing Wang, Yuzhi Zhao, Junchi Yan, **Lei Fan**, and Long Chen, accepted by Asian Conference on Computer Vision (**ACCV**), 2020.
+- [Lightweight Single-Image Super-Resolution Network with Attentive Auxiliary Feature Learning](https://arxiv.org/pdf/2011.06773.pdf), Xuehui Wang, Qing Wang, Yuzhi Zhao, Junchi Yan, **Lei Fan**, and Long Chen, Asian Conference on Computer Vision (**ACCV**), 2020.
 
-- [Toward the Ghosting Phenomenon in a Stereo-Based Map With a Collaborative RGB-D Repair](https://ieeexplore.ieee.org/abstract/document/8701620), Jiasong Zhu, **Lei Fan**, Wei Tian, Long Chen, Dongpu Cao, and Fei-Yue Wang, accepted by IEEE Transactions on Intelligent Transportation Systems (**Tran-ITS**), 2020.
+- [Toward the Ghosting Phenomenon in a Stereo-Based Map With a Collaborative RGB-D Repair](https://ieeexplore.ieee.org/abstract/document/8701620), Jiasong Zhu, **Lei Fan**, Wei Tian, Long Chen, Dongpu Cao, and Fei-Yue Wang, IEEE Transactions on Intelligent Transportation Systems (**Tran-ITS**), 2020.
 
-- [Monocular Outdoor Semantic Mapping with a Multi-task Network](https://arxiv.org/pdf/1901.05807.pdf), Yucai Bai, **Lei Fan**, Ziyu Pan, and Long Chen, accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2019.
+- [Monocular Outdoor Semantic Mapping with a Multi-task Network](https://arxiv.org/pdf/1901.05807.pdf), Yucai Bai, **Lei Fan**, Ziyu Pan, and Long Chen, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2019.
 
-- [Collaborative 3D Completion of Color and Depth in a Specified Area with Superpixels](https://www.researchgate.net/publication/328156601_Collaborative_3D_Completion_of_Color_and_Depth_in_a_Specified_Area_with_Superpixels), **Lei Fan**, Long Chen, Chaoqiang Zhang, Wei Tian, and Dongpu Cao, accepted by IEEE Transactions on Industrial Electronics (**TIE**), 2018.
+- [Collaborative 3D Completion of Color and Depth in a Specified Area with Superpixels](https://www.researchgate.net/publication/328156601_Collaborative_3D_Completion_of_Color_and_Depth_in_a_Specified_Area_with_Superpixels), **Lei Fan**, Long Chen, Chaoqiang Zhang, Wei Tian, and Dongpu Cao, IEEE Transactions on Industrial Electronics (**TIE**), 2018.
 
-- [Planecell: Representing Structural Space with Plane Elements](https://ieeexplore.ieee.org/document/8500416), **Lei Fan**, Long Chen, Kai Huang and Dongpu Cao, accepted as Best Student Paper by IEEE Intelligent Vehicles Symposium (**IV**), 2018.
+- [Planecell: Representing Structural Space with Plane Elements](https://ieeexplore.ieee.org/document/8500416), **Lei Fan**, Long Chen, Kai Huang and Dongpu Cao, Best Student Paper by IEEE Intelligent Vehicles Symposium (**IV**), 2018.
 
-- [A Full Density Stereo Matching System Based on the Combination of CNNs and Slanted-planes](https://ieeexplore.ieee.org/document/8103909), Long Chen, **Lei Fan**, Jianda Chen, Dongpu Cao, and Feiyue Wang, accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems (**TSMCS**), 2017.
+- [A Full Density Stereo Matching System Based on the Combination of CNNs and Slanted-planes](https://ieeexplore.ieee.org/document/8103909), Long Chen, **Lei Fan**, Jianda Chen, Dongpu Cao, and Feiyue Wang, IEEE Transactions on Systems, Man, and Cybernetics: Systems (**TSMCS**), 2017.
 
-- [Let the Robot Tell: Describe Car Image with Natural Language via LSTM](https://www.sciencedirect.com/science/article/pii/S016786551730315X), Long Chen, Yuhang He, and **Lei Fan**, accepted by Pattern Recognition Letters (**PRL**), 2017.
+- [Let the Robot Tell: Describe Car Image with Natural Language via LSTM](https://www.sciencedirect.com/science/article/pii/S016786551730315X), Long Chen, Yuhang He, and **Lei Fan**, Pattern Recognition Letters (**PRL**), 2017.
 
-- [Moving-Object Detection from Consecutive Stereo Pairs using Slanted Plane Smoothing](https://ieeexplore.ieee.org/document/7891876), Long Chen, **Lei Fan**, Guodong Xie, Kai Huang, and Andreas Nuchter, accepted by IEEE Transactions on Intelligent Transportation Systems (**Tran-ITS**), 2017.
+- [Moving-Object Detection from Consecutive Stereo Pairs using Slanted Plane Smoothing](https://ieeexplore.ieee.org/document/7891876), Long Chen, **Lei Fan**, Guodong Xie, Kai Huang, and Andreas Nuchter, IEEE Transactions on Intelligent Transportation Systems (**Tran-ITS**), 2017.
 
-- [RGB-T SLAM: A Flexible SLAM Framework by Combining Appearance and Thermal Information](https://ieeexplore.ieee.org/abstract/document/7989668), Long Chen, Libo Sun, Teng Yang, **Lei Fan**, Kai Huang, and Zhe Xuanyuan, accepted by IEEE International Conference on Robotics and Automation (**ICRA**), 2017.
+- [RGB-T SLAM: A Flexible SLAM Framework by Combining Appearance and Thermal Information](https://ieeexplore.ieee.org/abstract/document/7989668), Long Chen, Libo Sun, Teng Yang, **Lei Fan**, Kai Huang, and Zhe Xuanyuan, IEEE International Conference on Robotics and Automation (**ICRA**), 2017.
 
 
 <!-- # 💬 Invited Talks
