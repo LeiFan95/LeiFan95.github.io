@@ -19,7 +19,7 @@ redirect_from:
 
 **Greetings from Seattle.** 
 
-I am currently an Applied Scientist with Amazon Alexa AI team. My current focus includes MLLM post-training, visual reasoning and visual tokenization.
+I am currently an Applied Scientist with Amazon Alexa AI team. My current focus includes video QA, MLLM post-training and embodied perception.
 
 Previously, I was a Ph.D. candidate at Northwestern University under the supervision of [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/). My research interests lies in **the intersection of computer vision and robotics**, with a particular emphasis on <ins>**active vision**</ins> (<ins>*the agent is endowed with the ability to move and perceive*</ins>).
 I am constantly investigating the challenges inherent to active vision agents in an open-world context. These challenges include, but are not limited to, *continual learning*, *few-sample learning*, *uncertainty quantification* and *vision-language models*.
