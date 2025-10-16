@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Greetings from Seattle.** 
+**Greetings from Bellevue.** 
 
 I am currently an Applied Scientist with Amazon Alexa AI team. My current focus includes video QA, MLLM post-training and embodied perception.
 
