@@ -43,7 +43,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 
 # 📝 Publications
 
-- [DACO: Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](), Jinqi Luo, Jinyu Yang, Tal Neiman, **Lei Fan**, Bing Yin, Son Tran, Mubarak Shah, René Vidal (**CVPR**), 2026.
+- [DACO: Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](), Jinqi Luo, Jinyu Yang, Tal Neiman, **Lei Fan**, Bing Yin, Son Tran, Mubarak Shah, René Vidal, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
 - [GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GPVK-VL_Geometry-Preserving_Virtual_Keyframes_for_Visual_Localization_under_Large_Viewpoint_CVPR_2025_paper.pdf), Yunxuan Li, **Lei Fan**, Xiaoying Xing, Jianxiong Zhou and Ying Wu, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
 
