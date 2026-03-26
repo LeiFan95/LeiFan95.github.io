@@ -42,6 +42,10 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 
 # 📝 Publications
 
+- [GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GPVK-VL_Geometry-Preserving_Virtual_Keyframes_for_Visual_Localization_under_Large_Viewpoint_CVPR_2025_paper.pdf), Yunxuan Li, **Lei Fan**, Xiaoying Xing, Jianxiong Zhou and Ying Wu, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
+
+- [Learning to Ask Denotative and Connotative Questions for Knowledge-based VQA](https://aclanthology.org/2024.findings-emnlp.487.pdf), Xiaoying Xing, Peixi Xiong, **Lei Fan**, Yunxuan Li and Ying Wu, Findings of the Association for Computational Linguistics: (**EMNLP Findings**), 2024.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/overview/AOVR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations](https://arxiv.org/pdf/2311.17938.pdf)
@@ -120,9 +124,6 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 
 <!-- - [Avoiding Lingering in Learning Active Recognition by Adversarial Disturbance](https://openaccess.thecvf.com/content/WACV2023/papers/Fan_Avoiding_Lingering_in_Learning_Active_Recognition_by_Adversarial_Disturbance_WACV_2023_paper.pdf), **Lei Fan**, Ying Wu, IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023. -->
 
-- [GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GPVK-VL_Geometry-Preserving_Virtual_Keyframes_for_Visual_Localization_under_Large_Viewpoint_CVPR_2025_paper.pdf), Yunxuan Li, **Lei Fan**, Xiaoying Xing, Jianxiong Zhou and Ying Wu, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
-
-- [Learning to Ask Denotative and Connotative Questions for Knowledge-based VQA](https://aclanthology.org/2024.findings-emnlp.487.pdf), Xiaoying Xing, Peixi Xiong, **Lei Fan**, Yunxuan Li and Ying Wu, Findings of the Association for Computational Linguistics: (**EMNLP Findings**), 2024.
 
 - [Unsupervised Depth Completion and Denoising for RGB-D Sensors](https://ieeexplore.ieee.org/document/9812392), **Lei Fan**, Yunxuan Li, Chen Jiang, Ying Wu, IEEE International Conference on Robotics and Automation (**ICRA**), 2022.
 
