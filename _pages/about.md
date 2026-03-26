@@ -29,6 +29,7 @@ Prior to my Ph.D., my researches primarily focused on the perception in autonomo
 My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on July 2025).
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉 One co-authored paper on *safeguarding MLLMs* got accepted by CVPR 2026! Congratulations to Jinqi and other authors.
 - *2025.02*: &nbsp;🎉 One co-authored paper on *visual localization under extreme viewpoint changes* got accepted by CVPR 2025! Congratulations to Yunxuan and other authors.
 - *2024.10*: &nbsp;🎉 One co-authored paper on *visual question answering* got accepeted by EMNLP 2024! Congratulations to Xiaoying and other authors.
 - *2024.05*: The proposed dataset to evaluate active recognition has been made publicly available! Please refer to [the page](AR-dataset/index.html) for details.
@@ -41,6 +42,8 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 - *2013 - 2019*, B.E., M.S. in Computer Science, advised by [Prof. Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN), Sun Yat-sen University.
 
 # 📝 Publications
+
+- [DACO: Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](), Jinqi Luo, Jinyu Yang, Tal Neiman, **Lei Fan**, Bing Yin, Son Tran, Mubarak Shah, René Vidal (**CVPR**), 2026.
 
 - [GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GPVK-VL_Geometry-Preserving_Virtual_Keyframes_for_Visual_Localization_under_Large_Viewpoint_CVPR_2025_paper.pdf), Yunxuan Li, **Lei Fan**, Xiaoying Xing, Jianxiong Zhou and Ying Wu, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
 
