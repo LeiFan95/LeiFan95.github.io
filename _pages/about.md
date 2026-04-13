@@ -43,7 +43,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 
 # 📝 Publications
 
-- [DACO: Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](), Jinqi Luo, Jinyu Yang, Tal Neiman, **Lei Fan**, Bing Yin, Son Tran, Mubarak Shah, René Vidal, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+- [DACO: Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](https://arxiv.org/pdf/2604.08846), Jinqi Luo, Jinyu Yang, Tal Neiman, **Lei Fan**, Bing Yin, Son Tran, Mubarak Shah, René Vidal, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. [**Project**](https://peterljq.github.io/project/daco/)
 
 - [GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GPVK-VL_Geometry-Preserving_Virtual_Keyframes_for_Visual_Localization_under_Large_Viewpoint_CVPR_2025_paper.pdf), Yunxuan Li, **Lei Fan**, Xiaoying Xing, Jianxiong Zhou and Ying Wu, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
 
@@ -56,7 +56,6 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on Jul
 **Lei Fan**, Jianxiong Zhou, Xiaoying Xing, Ying Wu
 
 [**Poster**](./files/CVPR_2024_AOR_poster.pdf) <strong><span class='' data=''></span></strong> |
-[**Project (coming soon)**]() <strong><span class='' data=''></span></strong> |
 [**Video**]() <strong><span class='' data=''></span></strong>
 - Investigate CLIP's limitations in embodied perception scenarios, emphasizing diverse viewpoints and occlusion degrees.
 - Propose an active agent to mitigate CLIP's limitations, aiming for active open-vocabulary recognition.
