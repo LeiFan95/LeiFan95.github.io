@@ -19,14 +19,11 @@ redirect_from:
 
 **Greetings from Bellevue.** 
 
-I am currently an Applied Scientist with Amazon Alexa AI team. My current focus includes video QA, MLLM post-training and embodied perception.
+I am an Applied Scientist at Amazon Alexa AI, working on multimodal perception, video understanding, and visual reasoning. 
 
-Previously, I was a Ph.D. candidate at Northwestern University under the supervision of [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/). My research interests lies in **the intersection of computer vision and robotics**, with a particular emphasis on <ins>**active vision**</ins> (<ins>*the agent is endowed with the ability to move and perceive*</ins>).
-I am constantly investigating the challenges inherent to active vision agents in an open-world context. These challenges include, but are not limited to, *continual learning*, *few-sample learning*, *uncertainty quantification* and *vision-language models*.
+My broader research lies at the intersection of computer vision, robotics, and embodied AI, with a focus on building perception systems that can understand 3D structure, reason across viewpoints, and act under uncertainty in open-world environments. Previously, I received my Ph.D. from Northwestern University, where I worked with [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/) on active vision, embodied recognition, uncertainty-aware perception, and robotics-related visual understanding.
 
-Prior to my Ph.D., my researches primarily focused on the perception in autonomous driving vehicles, encompassing areas such as stereo vision, 3D mapping, moving-object detection and map repair. 
-
-My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on July 2025).
+My detailed resume/CV is [here](./files/Lei_Fan_Resume_2026.pdf) (last updated on 2026).
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉 One co-authored paper on *safeguarding MLLMs* got accepted by CVPR 2026! Congratulations to Jinqi and other authors.
