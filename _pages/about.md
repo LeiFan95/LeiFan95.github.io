@@ -28,7 +28,7 @@ My detailed resume/CV is [here](./files/Lei_Fan_Resume_2026.pdf) (last updated o
 # 🔥 News
 - *2026.02*: &nbsp;🎉 One co-authored paper on *safeguarding MLLMs* got accepted by CVPR 2026! Congratulations to Jinqi and other authors.
 - *2025.02*: &nbsp;🎉 One co-authored paper on *visual localization under extreme viewpoint changes* got accepted by CVPR 2025! Congratulations to Yunxuan and other authors.
-- *2024.10*: &nbsp;🎉 One co-authored paper on *visual question answering* got accepeted by EMNLP 2024! Congratulations to Xiaoying and other authors.
+- *2024.10*: &nbsp;🎉 One co-authored paper on *visual question answering* got accepted by EMNLP 2024! Congratulations to Xiaoying and other authors.
 - *2024.05*: The proposed dataset to evaluate active recognition has been made publicly available! Please refer to [the page](AR-dataset/index.html) for details.
 - *2024.04*: &nbsp;🎉 I have successfully defended my Ph.D.! I would like to extend my gratitude to my committee: Prof. Ying Wu, Prof. Qi Zhu, and Prof. Thrasos N. Pappas. And I will join Amazon as an Applied Scientist this summer!
 - *2024.02*: &nbsp;🎉 Two papers on *active recognition* for embodied agents have been accepted by CVPR 2024! Thanks to all my collaborators!
