@@ -26,6 +26,7 @@ My broader research lies at the intersection of computer vision, robotics, and e
 My detailed resume/CV is [here](./files/Lei_Fan_Resume_2026.pdf) (last updated on 2026).
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 I will serve as an Area Chair for [CVPR 2027](https://cvpr.thecvf.com/).
 - *2026.02*: &nbsp;🎉 One co-authored paper on *safeguarding MLLMs* got accepted by CVPR 2026! Congratulations to Jinqi and other authors.
 - *2025.02*: &nbsp;🎉 One co-authored paper on *visual localization under extreme viewpoint changes* got accepted by CVPR 2025! Congratulations to Yunxuan and other authors.
 - *2024.10*: &nbsp;🎉 One co-authored paper on *visual question answering* got accepted by EMNLP 2024! Congratulations to Xiaoying and other authors.
