@@ -23,7 +23,7 @@ I am an Applied Scientist at Amazon Alexa AI, working on multimodal perception, 
 
 My broader research lies at the intersection of computer vision, robotics, and embodied AI, with a focus on building perception systems that can understand 3D structure, reason across viewpoints, and act under uncertainty in open-world environments. Previously, I received my Ph.D. from Northwestern University, where I worked with [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/) on active vision, embodied recognition, uncertainty-aware perception, and robotics-related visual understanding.
 
-My detailed resume/CV is [here](./files/Lei_Fan_Resume_2026.pdf) (last updated on 2026).
+My detailed resume/CV is [here](./files/Lei_Fan_Resume.pdf) (last updated on 2026).
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉 I will serve as an Area Chair for [CVPR 2027](https://cvpr.thecvf.com/).
